@@ -1,12 +1,8 @@
-## Hi there 👋
+# Dark Networks
 
-<!--
+Dark Networks is a GitHub organization managed by DarksGitHub. This organization hosts a variety of different repositories on GitHub for various purposes. These repositories cover a wide range of topics and projects, and they are available for anyone to access at any time.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Dark Networks Website](https://darknetworks.github.io)
+
+> Hi :D
